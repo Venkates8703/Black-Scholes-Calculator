@@ -1,4 +1,3 @@
-# Black-Scholes-Calculator
 import numpy as np
 from scipy.stats import norm
 import streamlit as st
